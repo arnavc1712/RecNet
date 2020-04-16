@@ -155,7 +155,7 @@ def parse_opt():
     parser.add_argument(
         '--checkpoint_path',
         type=str,
-        default='./save',
+        default='./Code/save',
         help='directory to store check pointed models')
 
     parser.add_argument(
