@@ -1,5 +1,5 @@
-# SWM_Final
-CSE 573 Final submission
+# RecNet
+Session based recommendation system using state of the art Transformers and Matrix Factorization on MovieLens-1M.
 
 ## Install Dependencies
 
