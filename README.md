@@ -7,7 +7,7 @@ Session based recommendation system using state of the art Transformers and Matr
 ## Results
 ![Results](images/results.png)
 
-## Learned Embeddings from Scratch
+## Learned Item Embeddings from Scratch
 ![Embeddings](images/embeddings.gif)
 
 ## Install Dependencies
