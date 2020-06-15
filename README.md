@@ -1,6 +1,15 @@
 # RecNet
 Session based recommendation system using state of the art Transformers and Matrix Factorization on MovieLens-1M.
 
+## Model Architecture
+![Model](images/transformer-model.png)
+
+## Results
+![Results](images/results.png)
+
+## Learned Embeddings from Scratch
+![Embeddings](images/embeddings.gif)
+
 ## Install Dependencies
 
 ```bash
@@ -13,3 +22,5 @@ pip install -r requirements.txt
 
 ## Tensorboard
 ```tensorboard --logdir=runs```
+
+
