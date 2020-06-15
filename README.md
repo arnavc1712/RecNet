@@ -1,5 +1,6 @@
 # RecNet
-Session based recommendation system using state of the art Transformers and Matrix Factorization on MovieLens-1M.
+Session based recommendation system using state of the art Transformers and Matrix Factorization on MovieLens-1M. <br/>
+Please refer to the [Report](Report.pdf) to view a detailed explanation of our project.
 
 ## Model Architecture
 ![Model](images/transformer-model.png)
